@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css?family=Lexend+Deca|Lexend+Zetta|Open+Sans+Condensed:300&display=swap');
+
+*{
+    background-color: bisque
+}
+
+h1  {
+    font-size: 60px;
+    color: #ce1313;
+    font-family: 'Lexend Deca', sans-serif;
+    text-align: center;
+
+    }
+
+h2 {
+    font-size: 30px;
+    color: black;
+    font-family: 'Lexend Zetta', sans-serif;
+    text-align: left;
+
+}
+
+h3 {
+    
+    font-size: 15px;
+    color: black;
+    font-family: 'Lexend Zetta', sans-serif;
+    text-align: left;
+
+}
+
+p {
+    font-size: 15px;
+    color: darkgreen;
+    font-family: 'Open Sans Condensed', sans-serif;
+    text-align: left;
+
+}
+
+img {
+    width: 300px;
+    text-align: right;
+
+
+}
+
+span { 
+    font-size: 18px;
+    color: black;
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+
+
+a {
+    font-size: 15px;
+    color: black;
+    font-family: 'Lexend Zetta', sans-serif;
+    text-align: left;
+    
+
+
+}
+
+.spanDos {
+    font-size: 25px;
+    color: goldenrod;
+    font-family: 'Open Sans Condensed', sans-serif;
+
+}
+
+.libres {
+    font-size: 25px;
+    color: rgb(44, 32, 218);
+    font-family: 'Open Sans Condensed', sans-serif;
+
+}
+
